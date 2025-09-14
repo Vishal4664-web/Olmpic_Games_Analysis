@@ -4,17 +4,17 @@ This project is a Streamlit web app for analyzing Olympic Games data using Machi
 
 Features:
 
-Year-wise analysis of Olympic Games
-Overall world medal tally
-Country-wise & Game-wise medal insights
-Athlete-specific information (who won which medal, in which year & game)
-Interactive visualizations with Streamlit
+Year-wise analysis of Olympic Games.
+Overall world medal tally.
+Country-wise & Game-wise medal insights.
+Athlete-specific information (who won which medal, in which year & game).
+Interactive visualizations with Streamlit.
 
 🛠️Tech Stack:
 
 Frontend: Streamlit
-Backend & ML/DL: Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras
-Visualization: Matplotlib, Seaborn, Plotly
+Backend & ML/DL: Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras.
+Visualization: Matplotlib, Seaborn, Plotly.
 
 🎯Purpose:
 
