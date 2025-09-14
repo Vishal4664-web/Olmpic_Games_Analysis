@@ -1,4 +1,4 @@
-🏅 Olympic Games Analysis:
+# 🏅 Olympic Games Analysis:
 
 This project is a Streamlit web app for analyzing Olympic Games data using Machine Learning and Deep Learning.
 
